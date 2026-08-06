@@ -80,27 +80,39 @@ History of philosophy (esp. phenomenology, Kant), philosophy of mathematics, fem
 A selection of the philosophical writing I have done in the past. I am only semi-actively working on philosophy, but drafts are available upon request.
 
 **On gender avowals, metaphysics of gender, and language**
+
 Final paper for PHIL 279B: Feminist Ethics (Spring 2026), taught by Anna-Bella Sicilia.
+
 Gender avowals are speech acts like "I am a woman" or "I use he/him pronouns," and are often taken to be the solely authoritative acts which can express one's gender identity. Taking such speech acts as solely authoritative allows, for instance, a trans man who has not had top surgery to genuinely avow manhood so long as he says the right words — even though having breasts is not, statistically speaking, normally indicative of manhood. However, as Katie Zhou articulates in her paper *Gender, Gender Expression, and the Dilemma of the Body* (2025), this view has the drawback of depriving the body of its relation to gender. I argue that we need not divorce the body from its relation to gender in order to affirm these cases, by developing an account of the multiple realizability of gender categories.
 
 **Phenomenology and Bayesian epistemology**
+
 Initial draft written as a final paper for PHIL 365: Phenomenology of Physics (Winter 2026), co-taught by Thomas Ryckman and Harald Wiltsche. Work in progress.
+
 A prominent question in Bayesian epistemology is where the legitimacy of its norms — probabilism, conditionalization — comes from. I develop a reading of Husserl's late phenomenology, in the *Cartesian Meditations* and the *Crisis*, on which these norms acquire their legitimacy from transcendental structures within experience. Probabilism is an idealization of the anticipatory structure of the horizon proper to our beliefs about the world, and conditionalization is an idealization of how our horizons shift in response to the fulfillment or frustration of our intentions.
 
 **Kant on space and geometric construction**
+
 Expository paper for PHIL 228: Kant and German Idealism (Winter 2026), taught by Greg Wong-Taylor.
+
 I ask how far one can follow Kant's account of space and geometry in the *Critique of Pure Reason* without accepting his most contentious claims about the content of our representation of space — namely, that our intuition of space is that of classical Euclidean 3-space, and must be so for our outer intuitions and the science of geometry to be possible. I argue that, in light of post-Kantian developments in mathematics and physics (non-Euclidean geometry, relativity, quantum mechanics), we should dispense with some of these claims while preserving parts of the spirit of Kant's account.
 
 **On the explanatory indispensability argument**
+
 Final paper for PHIL 355: Applied Mathematics (Fall 2025), co-taught by Nadeem Hussain and Jared Warren.
+
 The Quine–Putnam indispensability argument is often taken to be the strongest argument for realism about mathematical entities. A recent variant, the explanatory indispensability argument, has gained traction as an alternative. I argue that despite its promise, it is not dialectically effective — it need not convince someone not already predisposed to accept the traditional indispensability argument.
 
 **On adequate structural explanations**
+
 Written for PHIL 372W: Race, System, Structure (Spring 2025), co-taught by Wendy Salkin and Leif Wenar.
+
 In discussions of structural injustice, it is common to argue that there is a uniquely structural explanation of the injustice — that the structures themselves explain the wrongness of the injustice. Estlund describes a problem for such views, arguing that for simple structural types which could conceivably have arisen naturally, the structure itself does not explain the wrongness of the injustice. I develop a distinction between fine-grained and coarse-grained structural explanations, and argue that Estlund's problem is pressing only for comparatively coarse-grained structural explanations — sufficiently fine-grained structural explanations, with no conceivable naturally caused instances, can explain the wrongness of a case of injustice.
 
 **Abstract entities as tools in Heidegger**
+
 Written for PHIL 231: Phenomenology (Winter 2025), taught by Gabrielle Jackson.
+
 Heidegger's account of equipment [*Zeug*] takes tools like hammers and clocks as paradigmatic. I develop a reading of Division I of *Being and Time* which lends credence to the view that abstract entities like numbers, derivatives, and propositions likewise fall under the banner of Heideggerian equipment. Using this view, I develop an account of the world of the mathematician, and describe one feature of it: that learning to use abstract entities as tools involves a purposefully oriented process of circumspective confusion.
 
 ---
