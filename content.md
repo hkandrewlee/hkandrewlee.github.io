@@ -1,36 +1,36 @@
 # Andrew Woo-jong Lee (이우종 / 李雨鍾)
 
-I am a PhD student in mathematics at NYU, supported by an NSF Graduate Research Fellowship. I am also a philosopher and an artist. I am Korean–American, raised in Hong Kong.
+I am a first-year PhD student in mathematics at NYU, supported by an NSF Graduate Research Fellowship. I am also a philosopher and an artist. I am Korean–American, raised in Hong Kong.
 
-**Contact**
+**contact**
 awl9686 [at] nyu [dot] edu
 
 ---
 
-## Education
+## education
 
 **New York University** (2026–current)
-Mathematics, PhD
+- mathematics, PhD
 
 **Stanford University** (2021–2026)
-- Mathematics, BS with honors (advised by Otis Chodosh)
-- Theater and Performance Studies, Dance concentration, minor
-- Philosophy, MA
+- mathematics, BS with honors (advised by Otis Chodosh)
+- theater and performance studies, dance concentration, minor
+- philosophy, MA
 
 ---
 
-## Mathematics
+## mathematics
 
-### Research interests
+### research interests
 
-- **Areas of specialization:** geometric analysis, partial differential equations
-- **Areas of interest:** {algebraic, differential, symplectic} × {geometry, topology}
+- **areas of specialization:** geometric analysis, partial differential equations
+- **areas of interest:** {algebraic, differential, symplectic} × {geometry, topology}
 
-### Undergraduate honors thesis
+### undergraduate honors thesis
 
 *A smoother way to Bernstein's theorem*, 2025. Advised by Otis Chodosh.
 
-### Talks
+### talks
 
 **The continuum hypothesis is nonsense (unless you're doing metaphysics)**
 PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026.
@@ -38,12 +38,12 @@ PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Tayl
 **Arnold's conjecture for the 2-sphere**
 MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Spring 2025.
 
-### Notes and expository
+### notes and expository
 
 **Measure theory**
 Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fall 2024.
 
-### Outreach and service
+### outreach and service
 
 - Stanford Mathematics Directed Reading Program (DRP), mentor, 2025–2026
   - Fall 2025: Smooth manifolds, with Anna Oliva and Susan Zheng
@@ -51,13 +51,13 @@ Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fa
 - Stanford University Mathematical Organization (SUMO), president and financial officer, 2022–2025
 - Stanford Math Department, peer advisor, 2023–2025
 
-### Awards and honors
+### awards and honors
 
 - 2026 — Robert Osserman Teaching Award, Stanford
 - 2026 — NSF Graduate Research Fellowship
 - 2025 — Mathematics Distinguished Service Award, Stanford
 
-### Teaching at Stanford
+### teaching at Stanford
 
 - Winter–Spring 2026 — MATH 53 TA, *Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications*
 - Fall 2025 — MATH 18 CA, *Foundations for Calculus*
@@ -69,13 +69,13 @@ Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fa
 
 ---
 
-## Philosophy
+## philosophy
 
-### Interests
+### interests
 
 History of philosophy (esp. phenomenology, Kant), philosophy of mathematics, feminist philosophy, epistemology, political philosophy.
 
-### Writing
+### writing
 
 A selection of the philosophical writing I have done in the past. I am only semi-actively working on philosophy, but drafts are available upon request.
 
@@ -117,22 +117,24 @@ Heidegger's account of equipment [*Zeug*] takes tools like hammers and clocks as
 
 ---
 
-## Art
+## art
 
 I am a multi-disciplinary artist, interested in music, dance, and theater.
 
-### Background
+### background
 
-**Music** — I am a classically trained cellist. At Stanford, I have been involved in chamber music (Stanford Baroque Soloists, string quartet), numerous pit orchestras (opera, musical theater), and musical improv (Stanford Improvisors).
+**music** — I am a classically trained cellist. At Stanford, I have been involved in chamber music (Stanford Baroque Soloists, string quartet), numerous pit orchestras (opera, musical theater), and musical improv (Stanford Improvisors).
 
-**Dance** — I am a contemporary/modern dancer. At Stanford, I was a member of Traction Modern Dance Company from 2022–2026, co-choreographing a piece titled *Falling Together* (with Isabella Terrazas) in Spring 2025. I briefly trained with the contemporary circus company CIRCA, performing in CIRCA's *Leviathan* in October 2022.
+**dance** — I am a contemporary/modern dancer. At Stanford, I was a member of Traction Modern Dance Company from 2022–2026, co-choreographing a piece titled *Falling Together* (with Isabella Terrazas) in Spring 2025. I briefly trained with the contemporary circus company CIRCA, performing in CIRCA's *Leviathan* in October 2022.
 
-**Theater** — I am interested in dance theater. My unofficial capstone project for my dance minor was *Three States of Matter* (dir. Anna Zheng, 2025), a devised dance theater adaptation of Chekhov's *Three Sisters* about climate migration. I recently acted in *Port-Pourri* (dir. Sebastian Blue Hochman and Heather Schecter, 2026), an original site-specific musical play inspired by the Brazilian roda de samba.
+**theater** — I am interested in dance theater. My unofficial capstone project for my dance minor was *Three States of Matter* (dir. Anna Zheng, 2025), a devised dance theater adaptation of Chekhov's *Three Sisters* about climate migration. I recently acted in *Port-Pourri* (dir. Sebastian Blue Hochman and Heather Schecter, 2026), an original site-specific musical play inspired by the Brazilian roda de samba.
 
-### Selected performances
+### selected performances
 
 **Port-Pourri**, dir. Sebastian Blue Hochman and Heather Schecter
+
 Acting, music (cello and percussion), dance. Performed at Stanford, May 29–31, 2026.
 
 **Cadenza for Cello and Dancers in Fake Barn County**, with Isabella Terrazas
+
 Music: Shostakovich Cello Concerto, Cadenza (mvmt. III). Performed at TNP 1, San Francisco, May 16, 2026.
