@@ -6,10 +6,6 @@
 <title>Andrew Woo-jong Lee</title>
 <meta name="description" content="Andrew Woo-jong Lee — mathematician, philosopher, artist.">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-
 <style>
   :root {
     --paper: #ffffff;
@@ -25,26 +21,26 @@
     margin: 0;
     background: var(--paper);
     color: var(--ink);
-    font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-    font-size: 15px;
-    line-height: 1.7;
+    font-family: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
+    font-size: 19px;
+    line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
 
   #content {
-    max-width: 680px;
+    max-width: 880px;
     margin: 0 auto;
-    padding: 56px 24px 96px;
+    padding: 80px 64px 120px;
   }
 
   #content.loading { color: var(--ink-soft); }
 
   /* Name / h1 */
   h1 {
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 30px;
+    font-weight: 700;
     letter-spacing: -0.01em;
-    margin: 0 0 4px;
+    margin: 0 0 6px;
   }
 
   /* the "I am a mathematician..." line sits right under h1 as a <p> */
@@ -60,18 +56,18 @@
   }
 
   h2 {
-    font-size: 13px;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--ink-soft);
-    font-weight: 600;
-    margin: 40px 0 16px;
+    font-size: 22px;
+    letter-spacing: 0.01em;
+    color: var(--ink);
+    font-weight: 700;
+    margin: 52px 0 20px;
   }
 
   h3 {
-    font-size: 14.5px;
-    font-weight: 600;
-    margin: 26px 0 8px;
+    font-size: 19px;
+    font-weight: 700;
+    font-style: italic;
+    margin: 30px 0 8px;
   }
 
   p { margin: 0 0 10px; }
@@ -106,8 +102,10 @@
 
   ::selection { background: #111111; color: #ffffff; }
 
-  @media (max-width: 480px) {
-    #content { padding: 40px 18px 72px; }
+  @media (max-width: 700px) {
+    body { font-size: 17px; }
+    #content { padding: 48px 28px 80px; }
+    h1 { font-size: 26px; }
   }
 </style>
 </head>
