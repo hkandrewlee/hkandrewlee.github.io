@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Andrew Woo-jong Lee</title>
+<meta name="description" content="Andrew Woo-jong Lee — mathematician, philosopher, artist.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --paper: #ffffff;
+    --ink: #111111;
+    --ink-soft: #555555;
+    --line: #dddddd;
+    --link: #111111;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 15px;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  #content {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 56px 24px 96px;
+  }
+
+  #content.loading { color: var(--ink-soft); }
+
+  /* Name / h1 */
+  h1 {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin: 0 0 4px;
+  }
+
+  /* the "I am a mathematician..." line sits right under h1 as a <p> */
+  h1 + p {
+    color: var(--ink-soft);
+    margin: 0 0 4px;
+  }
+
+  /* Contact block: a <p><strong>Contact</strong> ...</p> */
+  p:has(> strong:first-child:only-child) {
+    margin-top: 18px;
+    margin-bottom: 2px;
+  }
+
+  h2 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+    font-weight: 600;
+    margin: 40px 0 16px;
+  }
+
+  h3 {
+    font-size: 14.5px;
+    font-weight: 600;
+    margin: 26px 0 8px;
+  }
+
+  p { margin: 0 0 10px; }
+
+  ul {
+    margin: 0 0 14px;
+    padding-left: 20px;
+  }
+  li { margin-bottom: 4px; }
+  li ul { margin-top: 4px; }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--line);
+    margin: 8px 0;
+  }
+
+  a {
+    color: var(--link);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+  a:hover { color: var(--ink-soft); }
+  a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+  strong { font-weight: 600; }
+  em { font-style: italic; color: var(--ink); }
+
+  /* paragraphs that immediately follow a bold "talk/paper title" line
+     read as the description line — keep them tight against the title */
+  h3 + p, p + p { margin-top: -2px; }
+
+  ::selection { background: #111111; color: #ffffff; }
+
+  @media (max-width: 480px) {
+    #content { padding: 40px 18px 72px; }
+  }
+</style>
+</head>
+<body>
+
+<div id="content" class="loading">Loading…</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+  fetch('content.md')
+    .then(function (res) {
+      if (!res.ok) throw new Error('content.md not found (status ' + res.status + ')');
+      return res.text();
+    })
+    .then(function (md) {
+      var el = document.getElementById('content');
+      el.classList.remove('loading');
+      el.innerHTML = marked.parse(md);
+      document.title = (md.match(/^#\s+(.+)$/m) || [, document.title])[1];
+    })
+    .catch(function (err) {
+      var el = document.getElementById('content');
+      el.classList.remove('loading');
+      el.innerHTML =
+        '<p><strong>Could not load content.md.</strong></p>' +
+        '<p>' + err.message + '</p>' +
+        '<p>This page fetches content.md at runtime, which requires being served over http(s) ' +
+        '— opening index.html directly as a local file (file://) will not work due to browser ' +
+        'security restrictions. Serve it locally (e.g. <code>python3 -m http.server</code>) or ' +
+        'deploy it to GitHub Pages / Netlify / Vercel, where it will work normally.</p>';
+    });
+</script>
+
+</body>
+</html>
