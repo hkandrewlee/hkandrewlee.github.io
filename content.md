@@ -33,14 +33,17 @@ awl9686 [at] nyu [dot] edu
 ### talks
 
 **The continuum hypothesis is nonsense (unless you're doing metaphysics)**
+
 PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026.
 
 **Arnold's conjecture for the 2-sphere**
+
 MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Spring 2025.
 
 ### notes and expository
 
 **Measure theory**
+
 Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fall 2024.
 
 ### outreach and service
