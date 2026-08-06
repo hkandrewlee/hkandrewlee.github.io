@@ -28,19 +28,19 @@ Mathematics, PhD
 
 ### Undergraduate honors thesis
 
-*A smoother way to Bernstein's theorem*, 2025. Advised by Otis Chodosh. [[pdf]](#)
+*A smoother way to Bernstein's theorem*, 2025. Advised by Otis Chodosh.
 
 ### Talks
 
-**The continuum hypothesis is nonsense (unless you're doing metaphysics)** — [slides](#)
+**The continuum hypothesis is nonsense (unless you're doing metaphysics)**
 PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026.
 
-**Arnold's conjecture for the 2-sphere** — [notes](#)
+**Arnold's conjecture for the 2-sphere**
 MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Spring 2025.
 
 ### Notes and expository
 
-**Measure theory** — [[pdf]](#)
+**Measure theory**
 Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fall 2024.
 
 ### Outreach and service
