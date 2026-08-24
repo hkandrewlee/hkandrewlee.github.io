@@ -54,7 +54,7 @@ Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fa
   - Fall 2025: Smooth manifolds, with Anna Oliva and Susan Zheng
   - Spring 2026: Algebraic and differential topology, with Sean Kuwamoto
 - Stanford University Mathematical Organization (SUMO), president and financial officer, 2022–2025
-- Stanford Math Department, peer advisor, 2023—2025
+- Stanford Math Department, peer advisor, 2023–2025
 
 ### awards and honors
 
@@ -82,7 +82,7 @@ History of philosophy (esp. phenomenology, Kant), philosophy of mathematics, fem
 
 ### writing
 
-A selection of the philosophical writing I have done in the past. I am only semi-actively working on philosophy, but drafts are available upon request.
+A selection of the philosophical writing I have done in the past, mostly during my MA at Stanford. I am only semi-actively working on philosophy, but drafts are available upon request.
 
 **On gender avowals, metaphysics of gender, and language**
 
@@ -94,7 +94,7 @@ Final paper for PHIL 279B: Feminist Ethics (Spring 2026), taught by Anna-Bella S
 
 Initial draft written as a final paper for PHIL 365: Phenomenology of Physics (Winter 2026), co-taught by Thomas Ryckman and Harald Wiltsche. Work in progress.
 
-- A prominent question in Bayesian epistemology is where the legitimacy of its norms—probabilism, conditionalization—comes from. I develop a reading of Husserl's late phenomenology, in the *Cartesian Meditations* and the *Crisis*, on which these norms acquire their legitimacy from transcendental structures within experience. Probabilism is an idealization of the anticipatory structure of the horizon proper to our beliefs about the world, and conditionalization is an idealization of how our horizons shift in response to the fulfillment or frustration of our intentions.
+- A prominent question in Bayesian epistemology is where the legitimacy of its norms—probabilism and conditionalization—comes from. I develop a reading of Husserl's late phenomenology, in the *Cartesian Meditations* and the *Crisis*, on which these norms acquire their legitimacy from transcendental structures within experience. Probabilism is an idealization of the anticipatory structure of the horizon proper to our beliefs about the world, and conditionalization is an idealization of how our horizons shift in response to the fulfillment or frustration of our intentions.
 
 **Kant on space and geometric construction**
 
@@ -128,22 +128,50 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 ### background
 
-**music** — I am a classically trained cellist, learning to play non-traditional styles. At Stanford, I have been involved in chamber music (Stanford Baroque Soloists, string quartet), numerous pit orchestras (opera, musical theater), and musical improv (Stanford Improvisors). I recently participated in a week-long intensive with the New York Jazz Academy (NYJA). 
+**music** — I am a classically trained cellist, learning to play non-traditional styles. At Stanford, I have been involved in chamber music (Stanford Baroque Soloists, string quartet), numerous pit orchestras (opera, musical theater), and musical improv (Stanford Improvisors). I  participated in a week-long intensive with the New York Jazz Academy (NYJA) during August 2026. 
 
-**dance** — I am a contemporary/modern dancer. At Stanford, I was a member of Traction Modern Dance Company from 2022–2026, co-choreographing a piece titled *Falling Together* (with Isabella Terrazas) in Spring 2025. I briefly trained with the contemporary circus company CIRCA, performing in CIRCA's *Leviathan* in October 2022.
+**dance/theater** — I am a contemporary/modern dancer, interested in dance theater. At Stanford, I was a member of Traction Modern Dance Company from 2022–2026. I briefly trained with the contemporary circus company Circa, performing in Circa's *Leviathan* in 2022. 
 
-**theater** — I am interested in dance theater. My (unofficial) capstone project for my dance minor was *Three States of Matter* (dir. Anna Zheng, 2025), a devised dance theater adaptation of Chekhov's *Three Sisters* about climate migration. I recently acted in *Port-Pourri* (dir. Sebastian Blue Hochman and Heather Schecter, 2026), an original site-specific musical play inspired by the Brazilian roda de samba.
+### selected work and performances
 
-### selected performances
+**Hearts of Men**
 
-**Hearts of Men**, Ailey Extension
+- Dancer in 10-day workshop, from Aug 20–29, 2026. 
+- Performed in showcase at Ailey Citigroup Theater, NYC, Aug 29, 2026. 
 
-- Dancer in 10-day workshop, from Aug 20–29, 2026. Performed in showcase at Ailey Citigroup Theater, NYC, Aug 29, 2026. 
+**Port-Pourri**
 
-**Port-Pourri**, dir. Sebastian Blue Hochman and Heather Schecter
+- An original site-specific musical play inspired by the Brazilian roda de samba, directed by Sebastian Blue Hochman and Heather Schecter. 
+- Acting, music (cello and percussion), dance. 
+- Performed at Stanford, May 29–31, 2026.
 
-- Acting, music (cello and percussion), dance. Performed at Stanford, May 29–31, 2026.
+**Cadenza for Cello and Dancers in Fake Barn County**
 
-**Cadenza for Cello and Dancers in Fake Barn County**, with Isabella Terrazas
+- A duet with Isabella Terrazas, set to the cadenza of Shostakovich's cello concerto. 
+- Performed at TNP 1, San Francisco, May 16, 2026.
 
-- Music: Shostakovich Cello Concerto, Cadenza (mvmt. III). Performed at TNP 1, San Francisco, May 16, 2026.
+**Falling Together**
+
+- Co-choreographed with Isabella Terrazas for Traction Modern Dance Company, set to *Falling Together* by Oona Doherty and Jamie xx. 
+- Performed at Stanford, May 30, 2025. 
+
+**Three States of Matter**
+
+- A devised dance theater adaptation of Chekhov's *Three Sisters* about climate migration. Co-created with Anna Zheng and Bhu Kongtaveelert. 
+- Associate director, co-choreographer, and actor (Andrey). 
+- Performed at Stanford, Feb 28–Mar 1, 2025. 
+
+**Ghost Quartet**
+
+- A musical song cycle written by Dave Malloy, directed by Sam Petersen. 
+- Music director and cellist. 
+- Performed at Stanford, Feb 22–24, 2024. 
+
+**Leviathan** 
+
+- Dancer in performance with contemporary circus company Circa, through Stanford Arts Intensive, Sep 6–Oct 1, 2022. 
+- Performed at Stanford, Sep 30–Oct 1, 2022. 
+
+---
+
+This website was last updated on August 24, 2026. 
