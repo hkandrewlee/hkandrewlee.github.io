@@ -21,7 +21,9 @@ awl9686 [at] nyu [dot] edu
 
 ## mathematics
 
-I am broadly interested in problems in geometry and topology, as well as the development of analytic, algebraic, and geometric tools used to understand them. My recent interests have been in Riemann surfaces, pseudoholomorphic curves, and minimal surfaces. 
+I am broadly interested in problems in geometry and topology, as well as the development of analytic, algebraic, and geometric tools used to understand them. 
+
+I am particularly interested in minimal surfaces, symplectic geometry (esp. *J*-holomorphic curves), Riemann surfaces, and spin manifolds, as well as the various tools from geometric analysis used to understand them—e.g., differential geometry, geometric measure theory, functional analysis, and elliptic PDE. I also (somewhat randomly) have a soft spot for homological algebra and descriptive set theory. 
 
 ### research interests
 
@@ -34,7 +36,7 @@ I am broadly interested in problems in geometry and topology, as well as the dev
 
 ### talks
 
-**The continuum hypothesis is nonsense (unless you're doing metaphysics)** 
+**The continuum hypothesis is nonsense** 
 
 PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026.
 
@@ -45,6 +47,10 @@ MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Sp
 **Minimal surfaces and Bernstein's problem**
 
 Honors thesis colloquium at Stanford, Spring 2025. 
+
+**Why do geometers care about cones?**
+
+Talk given for SURIM (Stanford Undergraduate Research Institute in Mathematics), Summer 2024. 
 
 ### notes and expository
 
