@@ -127,6 +127,8 @@
       el.classList.remove('loading');
       el.innerHTML = marked.parse(md);
       document.title = (md.match(/^#\s+(.+)$/m) || [, document.title])[1];
+
+      // give every heading a stable, linkable id (e.g. "## Mathematics" -> id="mathematics")
       var used = {};
       el.querySelectorAll('h1, h2, h3').forEach(function (h) {
         var slug = h.textContent
