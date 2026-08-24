@@ -9,10 +9,10 @@ awl9686 [at] nyu [dot] edu
 
 ## education
 
-**New York University** (2026--current)
+**New York University** (2026—current)
 - mathematics, PhD
 
-**Stanford University** (2021--2026)
+**Stanford University** (2021—2026)
 - mathematics, BS with honors (advised by Otis Chodosh)
 - theater and performance studies, dance concentration, minor
 - philosophy, MA
@@ -50,27 +50,27 @@ Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fa
 
 ### outreach and service
 
-- Stanford Mathematics Directed Reading Program (DRP), mentor, 2025--2026
+- Stanford Mathematics Directed Reading Program (DRP), mentor, 2025—2026
   - Fall 2025: Smooth manifolds, with Anna Oliva and Susan Zheng
   - Spring 2026: Algebraic and differential topology, with Sean Kuwamoto
-- Stanford University Mathematical Organization (SUMO), president and financial officer, 2022--2025
-- Stanford Math Department, peer advisor, 2023--2025
+- Stanford University Mathematical Organization (SUMO), president and financial officer, 2022—2025
+- Stanford Math Department, peer advisor, 2023—2025
 
 ### awards and honors
 
-- 2026 --- Robert Osserman Teaching Award, Stanford
-- 2026 --- NSF Graduate Research Fellowship
-- 2025 --- Mathematics Distinguished Service Award, Stanford
+- 2026 — Robert Osserman Teaching Award, Stanford
+- 2026 — NSF Graduate Research Fellowship
+- 2025 — Mathematics Distinguished Service Award, Stanford
 
 ### teaching at Stanford
 
-- Winter--Spring 2026 --- MATH 53 TA, *Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications*
-- Fall 2025 --- MATH 18 CA, *Foundations for Calculus*
-- Summer 2025 --- Summer Bridge Program, teaching and residential assistant (precalculus), program for incoming FLI frosh
-- Summer 2025 --- Stanford University Mathematics Camp (SUMaC), head counselor
-- Summer 2024 --- SUMaC, drop-in TA
-- Winter 2024 --- MATH 75SI co-instructor, *How to Give a Math Talk*
-- Summer 2023 --- SUMaC, residential counselor
+- Winter–Spring 2026 — MATH 53 TA, *Differential Equations with Linear Algebra, Fourier Methods, and Modern Applications*
+- Fall 2025 — MATH 18 CA, *Foundations for Calculus*
+- Summer 2025 — Summer Bridge Program, teaching and residential assistant (precalculus), program for incoming FLI frosh
+- Summer 2025 — Stanford University Mathematics Camp (SUMaC), head counselor
+- Summer 2024 — SUMaC, drop-in TA
+- Winter 2024 — MATH 75SI co-instructor, *How to Give a Math Talk*
+- Summer 2023 — SUMaC, residential counselor
 
 ---
 
@@ -88,31 +88,31 @@ A selection of the philosophical writing I have done in the past. I am only semi
 
 Final paper for PHIL 279B: Feminist Ethics (Spring 2026), taught by Anna-Bella Sicilia.
 
-Gender avowals are speech acts like "I am a woman" or "I use he/him pronouns," and are often taken to be the solely authoritative acts which can express one's gender identity. Taking such speech acts as solely authoritative allows, for instance, a trans man who has not had top surgery to genuinely avow manhood so long as he says the right words---even though having breasts is not, statistically speaking, normally indicative of manhood. However, as Katie Zhou articulates in her paper *Gender, Gender Expression, and the Dilemma of the Body* (2025), this view has the drawback of depriving the body of its relation to gender. I argue that we need not divorce the body from its relation to gender in order to affirm these cases, by developing an account of the multiple realizability of gender categories.
+Gender avowals are speech acts like "I am a woman" or "I use he/him pronouns," and are often taken to be the solely authoritative acts which can express one's gender identity. Taking such speech acts as solely authoritative allows, for instance, a trans man who has not had top surgery to genuinely avow manhood so long as he says the right words—even though having breasts is not, statistically speaking, normally indicative of manhood. However, as Katie Zhou articulates in her paper *Gender, Gender Expression, and the Dilemma of the Body* (2025), this view has the drawback of depriving the body of its relation to gender. I argue that we need not divorce the body from its relation to gender in order to affirm these cases, by developing an account of the multiple realizability of gender categories.
 
 **Phenomenology and Bayesian epistemology**
 
 Initial draft written as a final paper for PHIL 365: Phenomenology of Physics (Winter 2026), co-taught by Thomas Ryckman and Harald Wiltsche. Work in progress.
 
-A prominent question in Bayesian epistemology is where the legitimacy of its norms---probabilism, conditionalization---comes from. I develop a reading of Husserl's late phenomenology, in the *Cartesian Meditations* and the *Crisis*, on which these norms acquire their legitimacy from transcendental structures within experience. Probabilism is an idealization of the anticipatory structure of the horizon proper to our beliefs about the world, and conditionalization is an idealization of how our horizons shift in response to the fulfillment or frustration of our intentions.
+A prominent question in Bayesian epistemology is where the legitimacy of its norms—probabilism, conditionalization—comes from. I develop a reading of Husserl's late phenomenology, in the *Cartesian Meditations* and the *Crisis*, on which these norms acquire their legitimacy from transcendental structures within experience. Probabilism is an idealization of the anticipatory structure of the horizon proper to our beliefs about the world, and conditionalization is an idealization of how our horizons shift in response to the fulfillment or frustration of our intentions.
 
 **Kant on space and geometric construction**
 
 Final paper for PHIL 228: Kant and German Idealism (Winter 2026), taught by Greg Wong-Taylor.
 
-I ask how far one can follow Kant's account of space and geometry in the *Critique of Pure Reason* without accepting his most contentious claims about the content of our representation of space---namely, that our intuition of space is that of classical Euclidean 3-space, and must be so for our outer intuitions and the science of geometry to be possible. I argue that, in light of post-Kantian developments in mathematics and physics (non-Euclidean geometry, relativity, quantum mechanics), we should dispense with some of these claims while preserving parts of the spirit of Kant's account.
+I ask how far one can follow Kant's account of space and geometry in the *Critique of Pure Reason* without accepting his most contentious claims about the content of our representation of space—namely, that our intuition of space is that of classical Euclidean 3-space, and must be so for our outer intuitions and the science of geometry to be possible. I argue that, in light of post-Kantian developments in mathematics and physics (non-Euclidean geometry, relativity, quantum mechanics), we should dispense with some of these claims while preserving parts of the spirit of Kant's account.
 
 **On the explanatory indispensability argument**
 
 Final paper for PHIL 355: Applied Mathematics (Fall 2025), co-taught by Nadeem Hussain and Jared Warren.
 
-The Quine--Putnam indispensability argument is often taken to be the strongest argument for realism about mathematical entities. A recent variant, the explanatory indispensability argument, has gained traction as an alternative. I argue that despite its promise, it is not dialectically effective---it need not convince someone not already predisposed to accept the traditional indispensability argument.
+The Quine–Putnam indispensability argument is often taken to be the strongest argument for realism about mathematical entities. A recent variant, the explanatory indispensability argument, has gained traction as an alternative. I argue that despite its promise, it is not dialectically effective—it need not convince someone not already predisposed to accept the traditional indispensability argument.
 
 **On adequate structural explanations**
 
 Final paper for PHIL 372W: Race, System, Structure (Spring 2025), co-taught by Wendy Salkin and Leif Wenar.
 
-In discussions of structural injustice, it is common to argue that there is a uniquely structural explanation of the injustice---that the structures themselves explain the wrongness of the injustice. Estlund describes a problem for such views, arguing that for simple structural types which could conceivably have arisen naturally, the structure itself does not explain the wrongness of the injustice. I develop a distinction between fine-grained and coarse-grained structural explanations, and argue that Estlund's problem is pressing only for comparatively coarse-grained structural explanations---sufficiently fine-grained structural explanations, with no conceivable naturally caused instances, can explain the wrongness of a case of injustice.
+In discussions of structural injustice, it is common to argue that there is a uniquely structural explanation of the injustice—that the structures themselves explain the wrongness of the injustice. Estlund describes a problem for such views, arguing that for simple structural types which could conceivably have arisen naturally, the structure itself does not explain the wrongness of the injustice. I develop a distinction between fine-grained and coarse-grained structural explanations, and argue that Estlund's problem is pressing only for comparatively coarse-grained structural explanations—sufficiently fine-grained structural explanations, with no conceivable naturally caused instances, can explain the wrongness of a case of injustice.
 
 **Abstract entities as tools in Heidegger**
 
@@ -128,21 +128,21 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 ### background
 
-**music** --- I am a classically trained cellist, learning to play non-traditional styles. At Stanford, I have been involved in chamber music (Stanford Baroque Soloists, string quartet), numerous pit orchestras (opera, musical theater), and musical improv (Stanford Improvisors). I recently participated in a week-long intensive with the New York Jazz Academy (NYJA). 
+**music** — I am a classically trained cellist, learning to play non-traditional styles. At Stanford, I have been involved in chamber music (Stanford Baroque Soloists, string quartet), numerous pit orchestras (opera, musical theater), and musical improv (Stanford Improvisors). I recently participated in a week-long intensive with the New York Jazz Academy (NYJA). 
 
-**dance** --- I am a contemporary/modern dancer. At Stanford, I was a member of Traction Modern Dance Company from 2022--2026, co-choreographing a piece titled *Falling Together* (with Isabella Terrazas) in Spring 2025. I briefly trained with the contemporary circus company CIRCA, performing in CIRCA's *Leviathan* in October 2022.
+**dance** — I am a contemporary/modern dancer. At Stanford, I was a member of Traction Modern Dance Company from 2022–2026, co-choreographing a piece titled *Falling Together* (with Isabella Terrazas) in Spring 2025. I briefly trained with the contemporary circus company CIRCA, performing in CIRCA's *Leviathan* in October 2022.
 
-**theater** --- I am interested in dance theater. My (unofficial) capstone project for my dance minor was *Three States of Matter* (dir. Anna Zheng, 2025), a devised dance theater adaptation of Chekhov's *Three Sisters* about climate migration. I recently acted in *Port-Pourri* (dir. Sebastian Blue Hochman and Heather Schecter, 2026), an original site-specific musical play inspired by the Brazilian roda de samba.
+**theater** — I am interested in dance theater. My (unofficial) capstone project for my dance minor was *Three States of Matter* (dir. Anna Zheng, 2025), a devised dance theater adaptation of Chekhov's *Three Sisters* about climate migration. I recently acted in *Port-Pourri* (dir. Sebastian Blue Hochman and Heather Schecter, 2026), an original site-specific musical play inspired by the Brazilian roda de samba.
 
 ### selected performances
 
 **Hearts of Men**, Ailey Extension
 
-- Dancer in 10-day workshop, from Aug 20--29, 2026. Performed in showcase at Ailey Citigroup Theater, NYC, Aug 29, 2026. 
+- Dancer in 10-day workshop, from Aug 20–29, 2026. Performed in showcase at Ailey Citigroup Theater, NYC, Aug 29, 2026. 
 
 **Port-Pourri**, dir. Sebastian Blue Hochman and Heather Schecter
 
-- Acting, music (cello and percussion), dance. Performed at Stanford, May 29--31, 2026.
+- Acting, music (cello and percussion), dance. Performed at Stanford, May 29–31, 2026.
 
 **Cadenza for Cello and Dancers in Fake Barn County**, with Isabella Terrazas
 
