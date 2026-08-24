@@ -1,4 +1,4 @@
-# Andrew Woo-jong Lee (이우종 / 李雨鍾)
+# Andrew Woo-jong Lee (이우종 | 李雨鍾)
 
 I am a first-year PhD student in mathematics at NYU, supported by an NSF Graduate Research Fellowship. I am also a [philosopher](#philosophy) and an [artist](#art). I am Korean-American, raised in Hong Kong.
 
