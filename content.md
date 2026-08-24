@@ -34,13 +34,17 @@ I am broadly interested in problems in geometry and topology, as well as the dev
 
 ### talks
 
-**The continuum hypothesis is nonsense (unless you're doing metaphysics)**
+**The continuum hypothesis is nonsense (unless you're doing metaphysics)** 
 
 PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026.
 
 **Arnold's conjecture for the 2-sphere**
 
 MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Spring 2025.
+
+**Minimal surfaces and Bernstein's problem**
+
+Honors thesis colloquium at Stanford, Spring 2025. 
 
 ### notes and expository
 
