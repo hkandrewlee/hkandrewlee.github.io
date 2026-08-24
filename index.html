@@ -127,6 +127,17 @@
       el.classList.remove('loading');
       el.innerHTML = marked.parse(md);
       document.title = (md.match(/^#\s+(.+)$/m) || [, document.title])[1];
+      var used = {};
+      el.querySelectorAll('h1, h2, h3').forEach(function (h) {
+        var slug = h.textContent
+          .toLowerCase()
+          .trim()
+          .replace(/[^\w\s-]/g, '')
+          .replace(/\s+/g, '-');
+        if (used[slug]) { used[slug]++; slug += '-' + used[slug]; }
+        else { used[slug] = 1; }
+        h.id = slug;
+      });
     })
     .catch(function (err) {
       var el = document.getElementById('content');
