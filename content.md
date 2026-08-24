@@ -9,13 +9,13 @@ awl9686 [at] nyu [dot] edu
 
 ## education
 
-**New York University** (2026–current)
-- mathematics, PhD
+**New York University, Courant Institute** (2026–current)
+- PhD in mathematics
 
 **Stanford University** (2021–2026)
-- mathematics, BS with honors (advised by Otis Chodosh)
-- theater and performance studies, dance concentration, minor
-- philosophy, MA
+- BS with honors in mathematics, advised by Otis Chodosh
+- minor in theater and performance studies, dance concentration
+- MA in philosophy
 
 ---
 
