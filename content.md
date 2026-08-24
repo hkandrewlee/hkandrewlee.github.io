@@ -23,7 +23,7 @@ awl9686 [at] nyu [dot] edu
 
 I am broadly interested in problems in geometry and topology, as well as the development of analytic, algebraic, and geometric tools used to understand them. 
 
-I am particularly interested in minimal surfaces, symplectic geometry (esp. *J*-holomorphic curves), Riemann surfaces, and spin manifolds, as well as the various tools from geometric analysis used to understand them—e.g., differential geometry, geometric measure theory, functional analysis, and elliptic PDE. I also (somewhat randomly) have a soft spot for homological algebra and descriptive set theory. 
+I am particularly interested in minimal surfaces, symplectic geometry (esp. *J*-holomorphic curves), Riemann surfaces, and spin manifolds, as well as the various tools from geometric analysis used to understand them—e.g., differential geometry, geometric measure theory, functional analysis, and elliptic PDE. I also (somewhat randomly) have a soft spot for homological algebra and set theory. 
 
 ### research interests
 
