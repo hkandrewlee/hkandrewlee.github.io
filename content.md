@@ -38,11 +38,11 @@ I am particularly interested in minimal surfaces, symplectic geometry (esp. *J*-
 
 **The continuum hypothesis is nonsense** 
 
-PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026.
+PHIL 238W (History of Analytic Philosophy) at Stanford, taught by Greg Wong-Taylor, Spring 2026. [[slides]](files/continuum-hypothesis-nonsense-2026.pdf)
 
 **Arnold's conjecture for the 2-sphere**
 
-MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Spring 2025.
+MATH 269 (Hamiltonian Floer theory) at Stanford, taught by Mohammed Abouzaid, Spring 2025. [[notes]](files/arnold-sphere-2025.pdf)
 
 **Minimal surfaces and Bernstein's problem**
 
@@ -50,13 +50,13 @@ Honors thesis colloquium at Stanford, Spring 2025.
 
 **Why do geometers care about cones?**
 
-Talk given for SURIM (Stanford Undergraduate Research Institute in Mathematics), Summer 2024. 
+Talk given for SURIM (Stanford Undergraduate Research Institute in Mathematics), Summer 2024. [[slides]](files/surim-cone-presentation-2024.pdf)
 
 ### notes and expository
 
 **Measure theory**
 
-Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fall 2024.
+Notes from MATH 205A (Real Analysis) at Stanford, taught by Andrea Montanari, Fall 2024. [[pdf]](files/205a-notes-2024.pdf)
 
 ### outreach and service
 
@@ -184,4 +184,4 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 ---
 
-This website was last updated on August 24, 2026. 
+This website was last updated in August 2026. 

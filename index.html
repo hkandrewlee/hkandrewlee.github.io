@@ -35,7 +35,6 @@
 
   #content.loading { color: var(--ink-soft); }
 
-  /* Name / h1 */
   h1 {
     font-size: 30px;
     font-weight: 700;
@@ -43,13 +42,11 @@
     margin: 0 0 6px;
   }
 
-  /* the "I am a mathematician..." line sits right under h1 as a <p> */
   h1 + p {
     color: var(--ink-soft);
     margin: 0 0 4px;
   }
 
-  /* Contact block: a <p><strong>Contact</strong> ...</p> */
   p:has(> strong:first-child:only-child) {
     margin-top: 18px;
     margin-bottom: 2px;
@@ -98,8 +95,6 @@
   strong { font-weight: 600; }
   em { font-style: italic; color: var(--ink); }
 
-  /* paragraphs that immediately follow a bold "talk/paper title" line
-     read as the description line — keep them tight against the title */
   h3 + p, p + p { margin-top: -2px; }
 
   ::selection { background: #111111; color: #ffffff; }
