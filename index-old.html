@@ -22,7 +22,7 @@
     background: var(--paper);
     color: var(--ink);
     font-family: "Times New Roman", Times, "Liberation Serif", Georgia, serif;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
@@ -35,7 +35,6 @@
 
   #content.loading { color: var(--ink-soft); }
 
-  /* Name / h1 */
   h1 {
     font-size: 30px;
     font-weight: 700;
@@ -43,20 +42,18 @@
     margin: 0 0 6px;
   }
 
-  /* the "I am a mathematician..." line sits right under h1 as a <p> */
   h1 + p {
     color: var(--ink-soft);
     margin: 0 0 4px;
   }
 
-  /* Contact block: a <p><strong>Contact</strong> ...</p> */
   p:has(> strong:first-child:only-child) {
     margin-top: 18px;
     margin-bottom: 2px;
   }
 
   h2 {
-    font-size: 22px;
+    font-size: 24px;
     letter-spacing: 0.01em;
     color: var(--ink);
     font-weight: 700;
@@ -64,7 +61,7 @@
   }
 
   h3 {
-    font-size: 19px;
+    font-size: 20px;
     font-weight: 700;
     font-style: italic;
     margin: 30px 0 8px;
@@ -82,32 +79,10 @@
   hr {
     border: none;
     border-top: 1px solid var(--line);
-    margin: 44px 0;
+    margin: 24px 0;
   }
 
   hr + h2 { margin-top: 0; }
-
-  .tab-nav {
-    display: flex;
-    gap: 28px;
-    margin: 44px 0 40px;
-    padding-bottom: 14px;
-    border-bottom: 1px solid var(--line);
-  }
-  .tab-nav a {
-    color: var(--ink-soft);
-    text-decoration: none;
-    font-weight: 700;
-    font-size: 18px;
-    padding-bottom: 4px;
-  }
-  .tab-nav a:hover { color: var(--ink); }
-  .tab-nav a.active {
-    color: var(--ink);
-    border-bottom: 2px solid var(--ink);
-  }
-  .tab-panel[hidden] { display: none; }
-  .tab-panel > h2:first-child { margin-top: 0; }
 
   a {
     color: var(--link);
@@ -120,8 +95,6 @@
   strong { font-weight: 600; }
   em { font-style: italic; color: var(--ink); }
 
-  /* paragraphs that immediately follow a bold "talk/paper title" line
-     read as the description line — keep them tight against the title */
   h3 + p, p + p { margin-top: -2px; }
 
   ::selection { background: #111111; color: #ffffff; }
@@ -162,75 +135,6 @@
         else { used[slug] = 1; }
         h.id = slug;
       });
-
-      // build tabs for these top-level sections, in this order
-      var TAB_IDS = ['mathematics', 'philosophy', 'art'];
-      var panels = {};
-
-      TAB_IDS.forEach(function (id) {
-        var heading = document.getElementById(id);
-        if (!heading) return; // section not present, skip gracefully
-
-        var panel = document.createElement('div');
-        panel.className = 'tab-panel';
-        panel.id = 'panel-' + id;
-        heading.parentNode.insertBefore(panel, heading);
-
-        // move heading + everything until the next H2 or HR into this panel
-        var node = heading;
-        while (node) {
-          var next = node.nextSibling;
-          var stop = next && next.nodeType === 1 && (next.tagName === 'H2' || next.tagName === 'HR');
-          panel.appendChild(node);
-          if (stop || !next) break;
-          node = next;
-        }
-        panels[id] = panel;
-      });
-
-      // clean up now-redundant <hr> separators that used to sit between two tab sections
-      el.querySelectorAll(':scope > hr').forEach(function (hr) {
-        var prev = hr.previousElementSibling;
-        var next = hr.nextElementSibling;
-        if (prev && next && prev.classList.contains('tab-panel') && next.classList.contains('tab-panel')) {
-          hr.remove();
-        }
-      });
-
-      // build the nav and insert it right before the first panel
-      var firstPanel = panels[TAB_IDS.find(function (id) { return panels[id]; })];
-      if (firstPanel) {
-        var nav = document.createElement('nav');
-        nav.className = 'tab-nav';
-        TAB_IDS.forEach(function (id) {
-          if (!panels[id]) return;
-          var a = document.createElement('a');
-          a.href = '#' + id;
-          a.textContent = panels[id].querySelector('h2').textContent;
-          a.dataset.tab = id;
-          nav.appendChild(a);
-        });
-        firstPanel.parentNode.insertBefore(nav, firstPanel);
-
-        function showTab(id) {
-          if (!panels[id]) id = TAB_IDS.find(function (t) { return panels[t]; });
-          TAB_IDS.forEach(function (t) {
-            if (!panels[t]) return;
-            panels[t].hidden = t !== id;
-          });
-          nav.querySelectorAll('a').forEach(function (a) {
-            a.classList.toggle('active', a.dataset.tab === id);
-          });
-        }
-
-        window.addEventListener('hashchange', function () {
-          var id = location.hash.replace('#', '');
-          if (panels[id]) showTab(id);
-        });
-
-        var initial = location.hash.replace('#', '');
-        showTab(panels[initial] ? initial : TAB_IDS[0]);
-      }
     })
     .catch(function (err) {
       var el = document.getElementById('content');
