@@ -2,8 +2,6 @@
 
 I am a first-year PhD student in mathematics at NYU, supported by an NSF Graduate Research Fellowship. I am also a [philosopher](#philosophy) and an [artist](#art). I am Korean-American, raised in Hong Kong.
 
-[[mathematics]](#mathematics) 
-
 **contact**
 awl9686 [at] nyu [dot] edu
 
