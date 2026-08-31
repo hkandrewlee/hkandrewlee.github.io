@@ -148,8 +148,8 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 **Hearts of Men**
 
-- Dancer in 10-day workshop, from Aug 20–29, 2026. 
-- Performed in showcase at Ailey Citigroup Theater, NYC, Aug 29, 2026. 
+- Dancer in 10-day workshop, from Aug 20–29, 2026, with showcase at Ailey Citigroup Theater, NYC, Aug 29, 2026. 
+- Performed in: *Out of the Night* (Ian DaSilva), *Running Sprits* (Fredrick Earl Mosley), and *Grace (excerpts)* (Ronald K. Brown). 
 
 **Port-Pourri**
 
