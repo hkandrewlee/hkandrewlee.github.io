@@ -7,7 +7,9 @@ awl9686 [at] nyu [dot] edu
 
 ---
 
-## education
+## about
+
+### education
 
 **New York University, Courant Institute** (2026–current)
 - PhD in mathematics
