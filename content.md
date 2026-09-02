@@ -184,4 +184,4 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 ---
 
-This website was last updated in August 2026. 
+This website was last updated in September 2026. 
