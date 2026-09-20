@@ -5,6 +5,7 @@
 I am a first-year PhD student in mathematics at NYU, supported by an NSF Graduate Research Fellowship. Aside from being a [mathematician](#mathematics), I am also a [philosopher](#philosophy) and an [artist](#art). I am Korean-American, raised in Hong Kong.
 
 **email**: awl9686 [at] nyu [dot] edu
+
 **office**: WWH 627
 
 ### education
@@ -23,7 +24,7 @@ I am a first-year PhD student in mathematics at NYU, supported by an NSF Graduat
 
 I am broadly interested in problems in geometry and topology, as well as the development of analytic, algebraic, and geometric tools used to understand them. 
 
-I am particularly interested in minimal surfaces, symplectic geometry (esp. *J*-holomorphic curves), and Riemann surfaces, as well as the various tools from geometric analysis used to understand them—e.g., differential geometry, geometric measure theory, functional analysis, and elliptic PDE. 
+I am particularly interested in minimal surfaces, spin geometry, symplectic geometry (esp. *J*-holomorphic curves), and Riemann surfaces, as well as the various tools from geometric analysis used to understand them—e.g., differential geometry, geometric measure theory, functional analysis, and elliptic PDE. 
 
 ### research interests
 
@@ -35,6 +36,10 @@ I am particularly interested in minimal surfaces, symplectic geometry (esp. *J*-
 *A smoother way to Bernstein's theorem*, 2025. Advised by Otis Chodosh. [[pdf]](files/bernstein-honors-thesis-2025.pdf)
 
 ### talks
+
+**Bernstein's problem on minimal surfaces**
+
+NYU Courant, Student Analysis Seminar, Oct 5, 2026. (upcoming)
 
 **The continuum hypothesis is nonsense** 
 
@@ -159,6 +164,7 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 - A duet with Isabella Terrazas, set to the cadenza of Shostakovich's cello concerto. 
 - Performed at TNP 1, San Francisco, May 16, 2026.
+- Performing at Fertile Ground: New Works Showcase, NYC, Nov 15, 2026. 
 
 **Falling Together**
 
