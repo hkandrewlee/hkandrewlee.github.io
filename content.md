@@ -39,7 +39,7 @@ I am particularly interested in minimal surfaces, spin geometry, symplectic geom
 
 **Bernstein's problem on minimal surfaces**
 
-NYU Courant, Student Analysis Seminar, Oct 5, 2026. (upcoming)
+NYU Courant, Student Analysis Seminar, Oct 5, 2026. [[notes]](files/student-analysis-bernstein-2026.pdf)
 
 **The continuum hypothesis is nonsense** 
 
@@ -190,4 +190,4 @@ I am a multi-disciplinary artist, interested in music, dance, and theater.
 
 ---
 
-This website was last updated in September 2026. 
+This website was last updated in October 2026. 
